@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App{
+  background-color:#251B37;
+}
+.url{
+background-color:black;
+padding: 2rem;
+}
+.urltitle{
+  margin-bottom: 0.5rem;
+  color: white;
+}
+.urlform{
+  width: 80%;
+  color: black;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: auto;
+}
+.urlbtn{
+ margin-left: 2px;
+ border-radius: 5px;
+ background-color: rgba(0, 128, 0, 0.692);
+ padding: 5px 9px;
+ color: whitesmoke;
+
+
+}
+.urltable{
+  background-color: beige;
+}
